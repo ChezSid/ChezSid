@@ -43,10 +43,3 @@
 
 ###
 
-<img align="right" height="200" src=""  />
-
-###
-
-<h3 align="left"></h3>
-
-###
