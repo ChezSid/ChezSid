@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://www.dropbox.com/scl/fi/h1bmtg2d55idc48iw4ihf/ott_navigator.gif?rlkey=t4t7n5enzo290jzogpq71k9kh&st=v3c9xnx1&dl=0"  />
+  <img height="300" src="https://www.dropbox.com/scl/fi/h1bmtg2d55idc48iw4ihf/ott_navigator.gif?rlkey=t4t7n5enzo290jzogpq71k9kh&st=v3c9xnx1&dl=1"  />
 </div>
 
 ###
